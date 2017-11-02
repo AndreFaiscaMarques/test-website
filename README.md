@@ -28,3 +28,7 @@ Team Members:
 | -----| ---------- | --- | ------- |
 | André | Black     | 24  | Basketball |
 | Bernardo | Black  | 18  | Videogames |
+
+# Bold and Italic
+
+Again, like Reddit. Italic is between one *star*, Bold is between **two** 
