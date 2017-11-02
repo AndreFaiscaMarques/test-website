@@ -19,3 +19,12 @@ Adding an exclamation mark (!) before a link puts the image on the website ![Kac
 Works the same, the picture has a download link with a full url ![Teru](https://raw.githubusercontent.com/AndreFaiscaMarques/test-website/master/Teru%20awesome%20pic.jpg)
 
 Should also work just by having the filename and path inside the website, like ![Teru2](Teru%20awesome%20pic.jpg)
+
+# Table
+
+Team Members:
+
+| Name | Hair Color | Age | Hobbies |
+| -----| ---------- | --- | ------- |
+| André | Black     | 24  | Basketball |
+| Bernardo | Black  | 18  | Videogames |
